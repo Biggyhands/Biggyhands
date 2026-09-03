@@ -5,17 +5,12 @@
 
 ### Software Engineer · Problem Solver · Lifelong Learner
 
-<a href="https://github.com/Biggyhands">
-  <img src="https://img.shields.io/github/followers/Biggyhands?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
-</a>
-<a href="https://github.com/Biggyhands">
-  <img src="https://img.shields.io/github/stars/Biggyhands?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub Stars">
-</a>
+
 <img src="https://img.shields.io/badge/English-B2-2F80ED?style=for-the-badge&logo=duolingo&logoColor=white" alt="English B2">
 
 </div>
 
----
+---0
 
 ## 👨‍💻 About Me
 
@@ -45,6 +40,13 @@ I prefer to understand **how things work, why they work, and how to build them w
 
 ## 🛠️ Tech Stack
 
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=fff)
+
+
+
 ### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) 
@@ -68,10 +70,10 @@ I prefer to understand **how things work, why they work, and how to build them w
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge\&logo=microsoftteams\&logoColor=white)
+
 
 
 ---
@@ -129,62 +131,6 @@ Changing careers taught me something equally important:
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Project Name
-
-> Short description of what the project does and why it exists.
-
-**Stack:** `React` · `TypeScript` · `...`
-
-[View repository →](https://github.com/YOUR_USERNAME/REPOSITORY)
-
----
-
-### 🔹 Project Name
-
-> Short description of the problem solved by this project.
-
-**Stack:** `...` · `...` · `...`
-
-[View repository →](https://github.com/YOUR_USERNAME/REPOSITORY)
-
----
-
-### 🔹 Project Name
-
-> A project that demonstrates a specific technical skill or concept.
-
-**Stack:** `...` · `...` · `...`
-
-[View repository →](https://github.com/YOUR_USERNAME/REPOSITORY)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🎯 2026 Focus
-
-```text
-[████████████████░░░░] Software Engineering
-[███████████████░░░░░] English
-[██████████████░░░░░░] System Design
-[█████████████░░░░░░░] Algorithms & Problem Solving
-[████████████░░░░░░░░] Building Real Projects
-```
-
 ---
 
 ## 🤝 Let's Connect
@@ -193,11 +139,11 @@ I'm always interested in connecting with developers, engineers and people buildi
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/robertmanotas">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:robert.alejandro.manotas@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
@@ -205,22 +151,7 @@ I'm always interested in connecting with developers, engineers and people buildi
 
 ---
 
-<div align="center">
-
-### Thanks for stopping by 👋
-
-⭐ Feel free to explore my repositories.
-
-</div>
 
 
 
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
