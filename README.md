@@ -5,12 +5,8 @@
 
 ### Software Engineer · Problem Solver · Lifelong Learner
 
-
-<img src="https://img.shields.io/badge/English-B2-2F80ED?style=for-the-badge&logo=duolingo&logoColor=white" alt="English B2">
-
 </div>
 
----0
 
 ## 👨‍💻 About Me
 
@@ -83,10 +79,7 @@ I prefer to understand **how things work, why they work, and how to build them w
 I'm currently focused on:
 
 * Deepening my software engineering fundamentals.
-* Building projects that force me to solve real problems.
 * Improving my understanding of software architecture and clean code.
-* Strengthening my technical English.
-* Becoming more consistent at turning ideas into finished products.
 
 ---
 
@@ -96,21 +89,9 @@ I learn best when I can connect **concept → implementation → feedback**.
 
 Instead of simply memorizing syntax, I try to understand the underlying model and then reinforce it by building.
 
-```text
-Understand
-    ↓
-Experiment
-    ↓
-Build
-    ↓
-Break
-    ↓
-Debug
-    ↓
-Improve
-    ↓
-Repeat
-```
+
+Understand > Experiment > Build > Break > Debug > Improve > Repeat
+    
 
 ---
 
@@ -150,7 +131,6 @@ I'm always interested in connecting with developers, engineers and people buildi
 </div>
 
 ---
-
 
 
 
