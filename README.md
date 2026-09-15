@@ -61,6 +61,8 @@ I prefer to understand **how things work, why they work, and how to build them w
 ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge\&logo=deno\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
 
 ### 🔧 Tools
 
@@ -69,6 +71,7 @@ I prefer to understand **how things work, why they work, and how to build them w
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Mermaid.js](https://img.shields.io/badge/Mermaid.js-FF3670?style=for-the-badge\&logo=mermaid\&logoColor=white)
 
 
 
