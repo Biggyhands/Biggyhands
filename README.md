@@ -117,7 +117,7 @@ Changing careers taught me something equally important:
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, engineers and people building interesting things.
 
