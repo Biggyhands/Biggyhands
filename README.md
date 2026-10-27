@@ -72,7 +72,7 @@ I prefer to understand **how things work, why they work, and how to build them w
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 ![Mermaid.js](https://img.shields.io/badge/Mermaid.js-FF3670?style=for-the-badge\&logo=mermaid\&logoColor=white)
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 ---
